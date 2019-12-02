@@ -5,7 +5,7 @@
 ![ha image](ha_pannel.png)
 
 ### hamlfeeder:
- Webapp and anothers tool for feed data to train HomeAssistant ML managed Alarm: This server saves examples with requests indicating if alarm should be enabled or disabled:
+ Webapp and anothers tools for feed data to train HomeAssistant ML managed Alarm: This server saves examples with requests indicating if alarm should be enabled or disabled:
   * hptts://nginx_server/true 
   * https://nginx_server/false 
   
