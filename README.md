@@ -1,6 +1,6 @@
 # Proyects List
 
-## Home Assistant ML managed Alarm
+## ML model for manage Home Assistant's Alarm
 
 ![ha image](ha_pannel.png)
 
