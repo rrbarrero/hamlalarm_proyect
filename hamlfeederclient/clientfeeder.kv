@@ -1,0 +1,15 @@
+BoxLayout:
+    orientation: "vertical"
+    Label:
+        text: "HA Alarm ML feeder"
+        id: text_label
+    BoxLayout:
+        orientation: "horizontal"
+        Button:
+            text: "Alarma ON"
+            on_press: app.alarma_on()
+    BoxLayout:
+        orientation: "horizontal"
+        Button:
+            text: "Alarma OFF"
+            on_press: app.alarma_off()

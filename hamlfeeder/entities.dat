@@ -1,0 +1,17 @@
+device_tracker.movil1
+device_tracker.movil2
+light.lampara
+media_player.android_tv
+media_player.chromecast8292
+media_player.salon
+media_player.samsung_tv_remote
+sensor.date
+sensor.sunset_time
+sensor.sunrise_time
+sun.sun
+sensor.illumination_34ce008c1858
+alarm_control_panel.house
+binary_sensor.door_window_sensor_158d0001bc3a49
+sun.sun
+sensor.darksky_temperature
+sensor.darksky_precip

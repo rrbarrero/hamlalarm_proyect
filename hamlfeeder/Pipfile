@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+pandas = "*"
+sklearn = "*"
+paramiko = "*"
+scp = "*"
+
+[packages]
+requests = "*"
+peewee = "*"
+flask = "*"
+python-dateutil = "*"
+joblib = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

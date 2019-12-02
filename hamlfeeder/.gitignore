@@ -1,0 +1,7 @@
+database.sqlite
+__pycache__
+.vscode
+datos.json
+states.json
+*.pdf
+*.joblib
